@@ -1,6 +1,12 @@
-# Rose Pine Discord Theme
+<p align="center">
+    <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
+    <h2 align="center">Rosé Pine for Discord, adapted from Catpuccin</h2>
+</p>
 
-A theme for Discord with the Rose Pine color palette.
+<p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
+
+# Why?
+The official Rosé Pine theme is currently broken.
 
 ## Installation
 
